@@ -1,2 +1,5 @@
 # hello-world
-parent repository
+
+You're on github
+
+let's learn together
